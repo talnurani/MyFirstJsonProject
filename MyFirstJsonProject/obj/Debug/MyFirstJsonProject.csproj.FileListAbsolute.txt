@@ -1,0 +1,5 @@
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\MyFirstJsonProject\bin\Debug\MyFirstJsonProject.exe.config
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\MyFirstJsonProject\bin\Debug\MyFirstJsonProject.exe
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\MyFirstJsonProject\bin\Debug\MyFirstJsonProject.pdb
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\MyFirstJsonProject\obj\Debug\MyFirstJsonProject.exe
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\MyFirstJsonProject\obj\Debug\MyFirstJsonProject.pdb

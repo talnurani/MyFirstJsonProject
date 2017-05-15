@@ -1,0 +1,8 @@
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\bin\Debug\JSONnetProject.exe.config
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\bin\Debug\JSONnetProject.exe
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\bin\Debug\JSONnetProject.pdb
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\bin\Debug\Newtonsoft.Json.dll
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\bin\Debug\Newtonsoft.Json.xml
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\obj\Debug\JSONnetProject.csprojResolveAssemblyReference.cache
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\obj\Debug\JSONnetProject.exe
+c:\users\talnu\documents\visual studio 2017\Projects\MyFirstJsonProject\JSONnetProject\obj\Debug\JSONnetProject.pdb
